@@ -1,12 +1,3 @@
-Olá, sou o Daniel. 
-Desde 2017 servindo a Marinha do Brasil. 
-Técnico em Informática desde 2016 e atualmente estudante de Gestão da Tecnologia da Informação. 
-Desenvolvedor Back-end, me especializando em Java/Java EE e Spring.
-
-Hi, I'm Daniel. 
-Since 2017 serving the Brazilian Navy. 
-Since 2016 an IT Technician and now an Information Technology Management student. 
-A Back-end Developer, specializing in Java/Java EE and Spring.
 <!---
 DanMedeiross/DanMedeiross is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -14,6 +5,14 @@ You can click the Preview link to take a look at your changes.
 
 <h1 align="center">Olá 👋, sou o Daniel/ Hi 👋, I'm Daniel</h1>
 <h3 align="center">Um desenvolvedor backend dedicado/ A passionate backend developer from Brazil</h3>
+
+Desde 2017 servindo a Marinha do Brasil. 
+Técnico em Informática desde 2016 e atualmente estudante de Gestão da Tecnologia da Informação. 
+Desenvolvedor Back-end, me especializando em Java/Java EE e Spring.
+
+Since 2017 serving the Brazilian Navy. 
+Since 2016 an IT Technician and now an Information Technology Management student. 
+A Back-end Developer, specializing in Java/Java EE and Spring.
 
 - 🔭 Atualmente estou trabalhando em um **projeto confidencial**/ I’m currently working on **a classified project**
 
