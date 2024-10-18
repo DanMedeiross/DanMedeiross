@@ -16,7 +16,7 @@ A Back-end Developer, specializing in Java/Java EE and Spring.
 
 - 🔭 Atualmente estou trabalhando em um **projeto confidencial**/ I’m currently working on **a classified project**
 
-- 🌱 Atualmente estou aprendendo/ I’m currently learning **JavaScript and React**
+- 🌱 Atualmente estou aprendendo/ I’m currently learning **JavaScript and Angular**
 
 - 👨‍💻 Todos os meus projetos não-confidenciais estão disponíveis em/ All of my non-classified projects are available at [https://github.com/DanMedeiross](https://github.com/DanMedeiross)
 
